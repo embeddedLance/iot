@@ -1,5 +1,6 @@
-// author: ianw
+// author:      ianw
 // description: Basic structure packing example
+// compile:     gcc -fpack-struct -o ...
 
 #include <stdio.h>
 
