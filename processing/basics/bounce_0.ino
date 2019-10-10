@@ -1,3 +1,9 @@
+// author:       Casey Reas and Ben Fry
+// description:  Use of fill,ellipse,random
+//               Introduction to a class
+//               Tweak by changing 22,23,24
+
+
 Spot[] spots; // Declare array
 void setup() {
   size(720, 100);
