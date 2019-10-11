@@ -4,6 +4,7 @@
 
 
 #include <stdio.h>
+#include <stdlib.h>
 
 /* We need a prototype so the compiler knows what types function() takes */
 int function(char *input);
