@@ -1,5 +1,7 @@
 // author: Hasan Ijaz
 // description: Open Serial port to read hex values
+import processing.serial.*;
+
 void setup()
 {
   String portName = Serial.list()[0];
