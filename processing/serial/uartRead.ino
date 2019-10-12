@@ -1,6 +1,8 @@
 // author: Hasan Ijaz
 // description: Open Serial port to read hex values
 import processing.serial.*;
+Serial serial0;
+int ch;
 
 void setup()
 {
