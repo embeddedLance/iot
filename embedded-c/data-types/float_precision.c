@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #define BOILING 212     /* degrees Fahrenheit */
+float f_var; double d_var; long double l_d_var;
 
 main(){
       float f_var; double d_var; long double l_d_var;
