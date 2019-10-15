@@ -1,9 +1,11 @@
+// copyright: https://publications.gbdirect.co.uk/c_book/copyright.html
+
 #include <stdio.h>
 #include <stdlib.h>
 
 #define BOILING 212     /* degrees Fahrenheit */
 float f_var; double d_var; long double l_d_var;
-
+int y;
 main(){
       float f_var; double d_var; long double l_d_var;
       int i;
