@@ -1,10 +1,9 @@
 #include <ESP8266WiFi.h>
-#include <Adafruit_NeoPixel.h>
 #include <SPI.h>
 
 
-const char* ssid = "Ahmed Ijaz";
-const char* password = "ahmedijaz";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 const char* host = "IP OF THE ESP8266"; //it will tell you the IP once it starts up
                                         //just write it here afterwards and upload
 int ledPin = D3;
